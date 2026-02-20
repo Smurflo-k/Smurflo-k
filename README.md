@@ -1,10 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hUIn2yoj36JkzmEdE2/giphy.gif" width="200" height="200"/>
-<div id="badges">
-  <a href="https://t.me/V_tapke">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-  </a>
-</div>
   <img src="https://komarev.com/ghpvc/?username=Smurflo-k&style=flat-square&color=grey" alt=""/>
   <h1>
   Yo! Nice to meet you
