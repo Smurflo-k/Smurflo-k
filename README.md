@@ -12,8 +12,6 @@
 <h1>:man_technologist: About Me : </h1> 
 I'm a Russian student.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-:mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge)](https://t.me/V_tapke)
-
 <h1> :hammer_and_wrench: Languages and Tools :</h1>
 <div>
   <big>Programming languages: </big>
